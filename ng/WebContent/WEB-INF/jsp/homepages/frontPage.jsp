@@ -96,7 +96,7 @@
 <div class="baby-blue-top"></div>
 <div class="baby-blue">
 <p class="block-para">
-Due to the Data Centre Shutdown at the Sanger for essential maintenance GeneDB and the GeneDB web services will be unavailable from 3pm on Fri 26th Aug to 3pm on Tue 30th Aug. We apologise for any inconvenience this may cause.
+There are no events planned at this time.
 </p>
 </div>
 <div class="baby-blue-bot"></div>
