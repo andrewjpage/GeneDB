@@ -105,6 +105,26 @@
       </copy>
       -->
 	</target>
+	
+	<target name="docker-deploy" depends="check-config,compile-all,get-web-artemis">
+		<filter token="webAppRootKey" value="${webAppRootKey}" />
+		<delete dir="${finaldest.webapps}" failonerror="false"/>
+		<mkdir dir="${finaldest.webapps}"/>
+		<copy todir="${finaldest.webapps}">
+			<fileset dir="WebContent" casesensitive="false" followSymLinks="false" excludesfile="WebContent/WEB-INF/web.xml"/>
+		</copy>
+		<echo message="About to filter web.xml" />
+		<delete file="${finaldest.webapps}/WEB-INF/web.xml" failonerror="false" />
+		<copy file="WebContent/WEB-INF/web.xml" tofile="${finaldest.webapps}/WEB-INF/web.xml" filtering="true" />
+		<echo message="Done filtering web.xml" />
+		<copy file="property-file.${config}" tofile="${finaldest.webapps}/WEB-INF/classes/project.properties" overwrite="true" />
+		<!--
+      <echo message="Copying libraries"/>
+      <copy flatten="true" todir="${finaldest.webapps}.tmp/WEB-INF/lib">
+        <path refid="web-deploy-classpath" />
+      </copy>
+      -->
+	</target>
 
 
 	<target name="stop-tomcat" >
@@ -279,8 +299,17 @@
 				<include name="artemis_mac_20100311.jar"/>
 			</fileset>
 			<fileset dir="${ng.directory}/lib-repos/hazelcast">
-        		<include name="hazelcast-all-1.9.3.jar"/>
-      		</fileset>
+        			<include name="hazelcast-all-1.9.3.jar"/>
+      			</fileset>
+			<fileset dir="${ng.directory}/lib-repos/lucene">
+				<include name="lucene-regex-2.4.1.jar"/>
+			</fileset>
+			<fileset dir="${ng.directory}/lib-repos/rome">
+				<include name="rome-1.0.jar"/>
+			</fileset>
+			<fileset dir="${ng.directory}/lib-repos/gson">
+				<include name="gson-1.4.jar"/>
+			</fileset>
 		</copy>
 		<!--
     <delete file="${imported.basedir.web}/lib/com.springsource.com.thoughtworks.xstream-1.2.2.jar" />
@@ -395,7 +424,7 @@
 
 	<property name="javascriptprojectdir" value="${ng.directory}/WebContent/includes/scripts" />
 	<property name="webartemisdir" value="${javascriptprojectdir}/web-artemis" />
-	<property name="webartemisgituri" value="git@github.com:sanger-pathogens/Web-Artemis.git" />
+	<property name="webartemisgituri" value="https://github.com/sanger-pathogens/Web-Artemis.git" />
 	<property name="webartemisgitbranch" value="master" />
 	
 	<target name="clean-web-artemis">
