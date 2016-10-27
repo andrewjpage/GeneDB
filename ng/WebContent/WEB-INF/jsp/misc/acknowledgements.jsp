@@ -14,12 +14,10 @@
 
         <h3>Front page photo contributors</h3>
         <div class="arrowList">
-			&raquo; Apicomplexan Protozoa Photo - David J.P. Ferguson. <br />
+			&raquo; Apicomplexan Protozoa - David J.P. Ferguson. <br />
 			&raquo; Kinetoplastid Protozoa - Catarina Gadelha <br />
 			&raquo; Parasitic Helminths - Gary Dillon <br />
-			&raquo; Bacteria - Sharon Peacock <br />
 			&raquo; Parasite Vectors - Ray Wilson <br />
-			&raquo; Viruses - R. Dourmashkin, Wellcome Images (B0005752) <br />
         </div>
     </div>
 </div>

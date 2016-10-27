@@ -41,30 +41,6 @@
 
 <select name="taxons">
 <option  class="Level0DropDown" value="Root">&nbsp;&nbsp;All Organisms</option>
-<option  class="Level1DropDown" value="Bacteria">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bacteria</option>
-<option  class="Level2DropDown" value="Bfragilis_NCTC9343">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B. fragilis NCTC9343</option>
-<option  class="Level2DropDown" value="Bordetella">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bordetella</option>
-<option  class="Level3DropDown" value="Bbronchiseptica">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B. bronchiseptica</option>
-<option  class="Level3DropDown" value="Bparapertussis">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B. parapertussis</option>
-<option  class="Level2DropDown" value="Burkholderia">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Burkholderia</option>
-<option  class="Level3DropDown" value="Bcenocepacia">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B. cenocepacia</option>
-
-<option  class="Level3DropDown" value="Bpseudomallei">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B. pseudomallei</option>
-<option  class="Level2DropDown" value="Cabortus">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C. abortus</option>
-<option  class="Level2DropDown" value="Cdiphtheriae">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C. diphtheriae</option>
-<option  class="Level2DropDown" value="Cjejuni">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C. jejuni</option>
-<option  class="Level2DropDown" value="Ecarotovora">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E. carotovora</option>
-<option  class="Level2DropDown" value="Rleguminosarum">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;R. leguminosarum</option>
-<option  class="Level2DropDown" value="Salmonella">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Salmonella</option>
-<option  class="Level3DropDown" value="Styphi">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;S. typhi</option>
-<option  class="Level3DropDown" value="Styphimurium">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;S. typhimurium</option>
-
-<option  class="Level2DropDown" value="Scoelicolor">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;S. coelicolor</option>
-<option  class="Level2DropDown" value="Staphylococcus">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Staphylococcus</option>
-<option  class="Level3DropDown" value="Saureus_MRSA252">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;S. aureus MRSA252</option>
-<option  class="Level3DropDown" value="Saureus_MSSA476">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;S. aureus MSSA476</option>
-<option  class="Level2DropDown" value="Streptococcus">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Streptococcus</option>
-<option  class="Level3DropDown" value="Spyogenes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;S. pyogenes</option>
 <option  class="Level1DropDown" value="Helminths">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Helminths</option>
 <option  class="Level2DropDown" value="Platyhelminths">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Platyhelminths</option>
 <option  class="Level3DropDown" value="Sjaponicum">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;S. japonicum</option>
