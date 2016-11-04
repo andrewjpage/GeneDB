@@ -110,7 +110,7 @@
 <table cellpadding="0" cellspacing="0" width="100%">
 <tr>
 <td valign="top" align="left">
-<p>&copy; 2009-2010 and hosted by the <a href="http://www.sanger.ac.uk/">Sanger Institute</a></p>
+<p>&copy; 2009-2016 and hosted by the <a href="http://www.sanger.ac.uk/">Sanger Institute</a></p>
 </td>
 <td valign="top" align="center">
 <p><a href="<misc:url value="/Page/cookiespolicy"/>">Cookies Policy</a> | <a href="/Page/legal">Terms &amp; Conditions.</a></p>
