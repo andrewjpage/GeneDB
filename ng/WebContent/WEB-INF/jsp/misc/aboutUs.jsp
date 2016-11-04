@@ -17,13 +17,13 @@
 		<div class="main-light-grey">
 
 			<p>
-				<br /> <b> Dr. Matt Berriman </b>
+				<br /> <b> Prof. Matt Berriman </b>
 			</p>
 			<p>
 				The Wellcome Trust Sanger Institute <a
-					href="http://www.sanger.ac.uk/research/faculty/mberriman/"
+					href="http://www.sanger.ac.uk/people/directory/berriman-matt"
 					class="external autonumber"
-					title="http://www.sanger.ac.uk/research/faculty/mberriman/"
+					title="http://www.sanger.ac.uk/people/directory/berriman-matt"
 					rel="nofollow"> [1] </a>
 			</p>
 			<p>
@@ -102,11 +102,8 @@
 		<h3>Primary Contacts</h3>
 		<div class="main-light-grey-top"></div>
 		<div class="main-light-grey">
-		<p><br /> <i> Schistosoma mansoni</i>:</p>
-		<p><b>Dr. Anna Protasio</b></p>
-		<p>The Wellcome Trust Sanger Institute</p>
-		<p><br /> <i> Echinococcus granulosus</i>, <i> Echinococcus multilocularis </i> and <i>Hymenolepis microstoma</i>:</p>
-		<p><b>Dr. Magdalena Zarowiecki</b></p>
+		<p><br /> <i> Schistosoma mansoni</i>, <i> Echinococcus granulosus</i>, <i> Echinococcus multilocularis </i> and <i>Hymenolepis microstoma</i>:</p>
+		<p><b>Nancy Holroyd</b></p>
 		<p>The Wellcome Trust Sanger Institute</p>
 		<p><br /> <i> Eimeria </i> species:</p>
 		<p><b>Dr. Adam Reid</b></p>
@@ -119,10 +116,8 @@
 
 		<div class="main-light-grey-top"></div>
 		<div class="main-light-grey">
-
-
 			<p>
-				<br /> <b> Dr. Jacqueline McQuillan </b>
+				<br /> <b> Dr. Jacqueline Keane </b>
 			</p>
 			<p>The Wellcome Trust Sanger Institute</p>
                            <p>Jacqueline McQuillan has a PhD in Software Engineering and joined the
@@ -141,6 +136,17 @@
 			   in 2009 as a Senior Software Developer and moved to the Pathogen Informatics
 			   team in June 2011 as a Principal Software Developer.
 			<p>
+
+		</div>
+		<div class="main-light-grey-bot"></div>
+
+		<p>
+			<br />
+		</p>
+		<h3>Past contributors</h3>
+
+		<div class="main-light-grey-top"></div>
+		<div class="main-light-grey">
 			<p>
 				<br /> <b> Martin Aslett </b>
 			</p>
@@ -176,17 +182,6 @@
 			   Genomics team at the Wellcome Trust Sanger Institute in
 			   December 2013.
 			</p>
-		</div>
-		<div class="main-light-grey-bot"></div>
-
-		<p>
-			<br />
-		</p>
-		<h3>Past contributors</h3>
-
-		<div class="main-light-grey-top"></div>
-		<div class="main-light-grey">
-
 			<p>
 				<br /> <b> Dr. Christiane Hertz-Fowler </b>
 			</p>
@@ -289,16 +284,16 @@
 		<div class="baby-blue-top"></div>
         <div class="baby-blue">
 		            <p>
-              The GeneDB project is a core part of the Sanger Institute's Pathogen Genomics activities. Its primary goals are:
+              The GeneDB project is a core part of the Wellcome Trust Sanger Institute's Pathogen Genomics activities. Its primary goals are:
              </p>
              <br>
              <P>
-             &raquo; to provide reliable access to the latest sequence data and annotation/curation for the whole range of organisms sequenced by the Pathogen group.<br>
+             &raquo; to provide reliable access to the latest sequence data and annotation/curation for the whole range of organisms sequenced by the Parasite genomics group.<br>
              &raquo; to develop the website and other tools to aid the community in accessing and obtaining the maximum value from these data.<br>
              </P>
              <br>
              <p>
-              GeneDB currently provides access to more than 40 genomes, at various stages of completion, from early access to partial genomes with automatic annotation through to complete genomes with extensive manual curation.
+              GeneDB currently provides access to approximately 40 genomes, at various stages of completion, from early access to partial genomes with automatic annotation through to complete genomes with extensive manual curation.
              </p>
 		</div>
 		<div class="baby-blue-bot"></div>
