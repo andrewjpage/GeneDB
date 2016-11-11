@@ -21,8 +21,8 @@
            <property name="artemis.environment" value="UNIX" />
            <property name="j2ssh" value="" />
            <property name="ibatis" value="" />
-           <property name="chado" value="genedb-db.sanger.ac.uk:5434/snapshot?genedb_ro" />
-           <property name="jnlp.chado" value="genedb-db.sanger.ac.uk:5434/snapshot?genedb_ro" />
+           <property name="chado" value="vm-pg-path-genedb.sanger.ac.uk:5444/snapshot?genedb_ro" />
+           <property name="jnlp.chado" value="vm-pg-path-genedb.sanger.ac.uk:5444/snapshot?genedb_ro" />
            <property name="jdbc.drivers" value="org.postgresql.Driver" />
            <property name="apple.laf.useScreenMenuBar" value="true" />
            <property name="offset" value="${start}" />
