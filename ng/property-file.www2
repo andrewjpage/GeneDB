@@ -1,11 +1,11 @@
 finaldest.webapps=/nfs/pathdb/genedb/www2/webapps/ROOT
 webAppRootKey=genedb.www.root
 
-dbhost=genedb-db
-dbport=5434
+dbhost=vm-pg-path-genedb
+dbport=5444
 dbname=snapshot
 dbuser=genedb_ro
-dbpassword=genedb_ro
+dbpassword=XXXXXXXXXX_insert_password_here_XXXXXXXXXX
 
 lucene.indexDirectory=/nfs/pathdb/genedb/www2/lucene
 cacheDirectory=/nfs/pathdb/genedb/www2/cache
