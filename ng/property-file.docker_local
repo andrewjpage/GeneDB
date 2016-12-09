@@ -1,0 +1,17 @@
+finaldest.webapps=/usr/local/tomcat/webapps/ROOT
+webAppRootKey=genedb.www.root
+
+lucene.indexDirectory=/lucene
+cacheDirectory=/cache
+resultsCacheDirectory=/tmp/results_staging.www1
+
+download.tmpFolder=/tmp
+download.mail.host=localhost
+download.mail.port=25
+
+diagram.fontFile=file:/GeneDB/f011004t.ttf
+
+dbhost=localhost
+dbport=5432
+dbname=pathogens
+
